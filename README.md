@@ -2,11 +2,12 @@
 
 > Open-source **Wak**e and **I**mpedance **S**olver
 
-[![Documentation Status](https://readthedocs.org/projects/wakis/badge/?version=latest)](https://wakis.readthedocs.io/en/latest/?badge=latest)
-![Tests badge](https://github.com/impedanCEI/wakis/actions/workflows/nightly_tests_CPU.yml/badge.svg)
-[![codecov](https://codecov.io/github/elenafuengar/wakis/graph/badge.svg?token=7QPYJC23A0)](https://codecov.io/github/elenafuengar/wakis)
+
+[![nightly_tests_CPU_py3.12](https://github.com/ImpedanCEI/Wakis/actions/workflows/nightly_tests_CPU_p3.12.yml/badge.svg)](https://github.com/ImpedanCEI/Wakis/actions/workflows/nightly_tests_CPU_p3.12.yml)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 ![LoC](https://raw.githubusercontent.com/ImpedanCEI/wakis/gh-pages/badge.svg)
+![LoD](https://raw.githubusercontent.com/ImpedanCEI/wakis/gh-pages/badge-docs.svg)
+[![Documentation Status](https://readthedocs.org/projects/wakis/badge/?version=latest)](https://wakis.readthedocs.io/en/latest/?badge=latest)
 
 ![PyPI - Version](https://img.shields.io/pypi/v/wakis?style=flat-square&color=fuchsia)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/wakis)
@@ -116,6 +117,5 @@ These effects can be characterized through the beam coupling impedance in the fr
 🔖 Each Wakis release is linked to a [Zenodo](https://zenodo.org/records/15011421) publication under a unique [DOI](https://doi.org/10.5281/zenodo.15011421). If you are using Wakis in your scientific research, please help our scientific visibility by citing this work:
 
 > [1] E. de la Fuente Garcia et. al., “Wakis”. Zenodo, 2025. doi: https://doi.org/10.5281/zenodo.15527405
-
 
 
