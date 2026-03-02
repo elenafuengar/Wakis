@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: manual_tests_MPI_p3.14
+name: manual_tests_MPI_py3.14
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
